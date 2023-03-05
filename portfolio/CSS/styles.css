@@ -235,4 +235,10 @@ button:focus,
     list-style-type: none;
 }
 
+#work {
+    text-align: center;
+}
 
+.contact {
+    text-align: center;
+}
